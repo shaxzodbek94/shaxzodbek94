@@ -1,0 +1,5 @@
+soz = input("So'zni kiriting ")
+son_l = list(soz)
+son_l.reverse()
+soz1 = "".join(son_l)
+print(soz1)
